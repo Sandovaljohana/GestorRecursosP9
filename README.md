@@ -1,66 +1,53 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<h1>PP9 Gestor de recursos BitLab Edition</h1>
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+<p>En respuesta a la creciente digitalización y democratización del conocimiento en el ámbito educativo, la escuela de formación TI Factoría F5 ha reconocido la necesidad de desarrollar una aplicación web funcional que actúe como un gestor de recursos. </p>
+
+<h2>Requisitos Funcionales</h2>
+
+<p>
+CRUD Gestión de Recursos:
+<br>
+● Los usuarios PODRÁN agregar nuevos recursos a la lista, proporcionando un título, una fecha, un tipo
+de recurso, un tema, un autor y uno o varios recursos extras vinculados.
+<br>
+● Los usuarios PODRÁN editar recursos existentes y eliminar recursos.
+<br>
+● Cada recurso DEBERÁ estará asociado a un tema específico, tipo de recurso y persona.
+Búsqueda y Filtrado de Recursos:
+<br>
+● Los usuarios PODRÁN ver todos los recursos existentes
+<br>
+● DEBERÁ existir una función de búsqueda para encontrar recursos por título o contenido.
+<br>
+● DEBERÁ existir un filtrado de recursos por tema, tipo y fecha de creación.
+Interfaz de Usuario Intuitiva:
+<br>
+● Interfaz fácil de usar que permita una navegación fluida.
+<br>
+● Retroalimentación visual para confirmar acciones realizadas.
 </p>
 
-## About Laravel
+<h2>Extras</h2>
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+<p>Sistema de Favoritos:
+<br>
+● Marcar el recurso como favorito: Los usuarios PODRÁN marcar un recurso como favorito.
+Autenticación de Usuarios:
+<br>
+● Los usuarios deberán poder registrarse, iniciar sesión y cerrar sesión en la aplicación.
+<br>
+● Se requerirá un sistema de roles para diferenciar entre administradores y usuarios regulares.
+<br>
+Comentarios y Valoraciones:
+<br>
+● Los usuarios podrán agregar comentarios y valoraciones a los recursos.
+<br>
+● Visualización de comentarios y valoraciones realizadas por otros usuarios.
+<br>
+Notificaciones:
+<br>
+● Sistema de notificaciones para informar sobre cambios en recursos o comentarios nuevos.
+</p>
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+<img src="1.png">
+<br>
