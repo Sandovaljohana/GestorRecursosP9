@@ -49,5 +49,8 @@ Notificaciones:
 ● Sistema de notificaciones para informar sobre cambios en recursos o comentarios nuevos.
 </p>
 
-<img src="1.png">
+![Bitlab](/resources/imgs/1.png)
+
 <br>
+
+![Tecnologías usadas](/resources/imgs/a.svg)
